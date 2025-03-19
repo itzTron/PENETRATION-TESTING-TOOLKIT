@@ -1,7 +1,13 @@
 # Penetration Testing Toolkit
+*COMPANY*: CODTECH IT SOLUTIONS |
+*NAME*: TANMOY NASKAR |
+*INTERN ID*: CT08VMU |
+*DOMAIN*: Cyber Security & Ethical Hacking. | 
+*DURATION*: 4 WEEKS |
+*MENTOR*: NEELA SANTOSH |
 
 ## Overview
-This is a CLI-based penetration testing toolkit built using Python. It includes multiple modules such as:
+**This is a CLI-based penetration testing toolkit built using Python. It includes multiple modules such as:**
 - **Port Scanner**
 - **Brute-Force SSH Attack**
 - **Password Generator**
