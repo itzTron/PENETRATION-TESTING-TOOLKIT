@@ -43,6 +43,8 @@ Run the script:
 ```bash
 python3 pentest_toolkit.py
 ```
+## Example Image:
+![Image](https://github.com/user-attachments/assets/acc4da33-7166-418a-bb68-455d6617d6a9)
 
 ### Available Options in Menu:
 1. **Scan open ports**: Enter a target IP to check for open ports.
