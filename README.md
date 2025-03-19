@@ -30,8 +30,7 @@ pip3 install scapy python-nmap paramiko
 ## Installation
 Clone the repository from GitHub:
 ```bash
-git clone https://github.com/your-username/penetration-toolkit.git
-cd penetration-toolkit
+https://github.com/itzTron/PENETRATION-TESTING-TOOLKIT.git
 ```
 
 ## Usage
@@ -62,6 +61,4 @@ sudo python3 pentest_toolkit.py
 ## Disclaimer
 This tool is intended for educational and ethical security testing purposes only. Unauthorized use against networks or systems without permission is illegal. The developer is not responsible for any misuse.
 
-## License
-MIT License
 
